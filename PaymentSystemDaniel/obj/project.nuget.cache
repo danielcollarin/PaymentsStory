@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ebH/x1AUR2zDnsiNoSIFiOt8EttzAFZRCm5lMxJl0OXJLEraB26mFvvG/rfQ6QmG9TqVGqou4ezEbzARUDesw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel.l.t.collarin\\Source\\Repos\\PaymentsStory\\PaymentSystemDaniel\\PaymentSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.13\\microsoft.entityframeworkcore.5.0.13.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.13\\microsoft.entityframeworkcore.abstractions.5.0.13.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.13\\microsoft.entityframeworkcore.analyzers.5.0.13.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.13\\microsoft.entityframeworkcore.inmemory.5.0.13.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.l.t.collarin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

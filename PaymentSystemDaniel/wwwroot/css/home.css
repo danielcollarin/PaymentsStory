@@ -1,0 +1,35 @@
+﻿.home-main {
+  padding: 10px;
+}
+
+/*account balance*/
+.balance {
+    display: block;
+}
+
+.balance__display {
+    overflow: auto;
+    resize: none;
+}
+
+.label__displaybal {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/*tables styles*/
+.label__displaylist {
+    padding-top: 20px
+}
+
+.payments {
+    display: block;
+}
+
+.payments__list, .paymentsTableHead, .paymentsTableHeadRow, .paymentsTd {
+    border: 1px solid black;
+}
+
+.payments__list {
+    width: 80%;
+}

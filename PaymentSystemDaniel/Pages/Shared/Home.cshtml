@@ -1,0 +1,33 @@
+﻿@page
+@model PaymentSystemDaniel.Pages.Shared.HomeModel
+@{
+    ViewBag.Title = "Home page";
+}
+
+<head>
+    <link href="~/css/home.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="home-main">
+        <p>Home</p>
+        <div class="balance">
+            <label for="balance__displayname" class="label__displaybal">
+                Available balance as of
+                <script>document.write(new Date().toLocaleDateString());</script>:
+            </label>
+            <textarea name="balance__displayname" class="balance__display" rows="2" cols="30"></textarea>
+        </div>
+
+        <label class="label__displaylist">List of payments</label>
+        <div>
+            <img src="/ajax-loader.gif" alt="loader" class="spinner_loader" width="120" height="120">
+        </div>
+        <div class="payments">
+            @*Generate table and populate from ajax*@
+        </div>
+    </div>
+
+</body>
+
+<script src="~/js/home.js"></script>
+
