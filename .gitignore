@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+/.vs/PaymentSystemDaniel/FileContentIndex/60cb58ff-2f3e-4a6b-92d0-63474ce4fe2f.vsidx
